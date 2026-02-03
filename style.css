@@ -12,6 +12,8 @@ h2{
 img{
     margin-top: 20px;
     margin-left: 60px;
+    height: auto;
+    max-width: 100%;
 }
 
 div.tank{
